@@ -14,10 +14,13 @@
     "kamilla",
     "latypova"
   ],
-  "author": "\u0016email\" : \"buzonkamilla@gmail.com\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[D\u001b[D\u001b[",
+  "author": "Kamilla Latypova <buzonkamilla@gmail.com>",
   "license": "BSD-3-Clause",
   "bugs": {
     "url": "https://github.com/Kamilla1703/js-project/issues"
   },
-  "homepage": "https://github.com/Kamilla1703/js-project#readme"
+  "homepage": "https://github.com/Kamilla1703/js-project#readme",
+  "dependencies": {
+    "fs-extra": "^11.1.0"
+  }
 }
