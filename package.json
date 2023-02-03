@@ -1,0 +1,23 @@
+{
+  "name": "project-kamilla",
+  "version": "1.0.0",
+  "description": "this is task for JS training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamilla1703/js-project.git"
+  },
+  "keywords": [
+    "kamilla",
+    "latypova"
+  ],
+  "author": "\u0016email\" : \"buzonkamilla@gmail.com\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[D\u001b[D\u001b[",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Kamilla1703/js-project/issues"
+  },
+  "homepage": "https://github.com/Kamilla1703/js-project#readme"
+}
